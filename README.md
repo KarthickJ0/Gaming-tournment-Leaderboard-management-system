@@ -59,9 +59,7 @@ This project is a structured SQL database for managing gaming tournaments. It in
 - MySQL or compatible SQL database.
 - SQL client (e.g., MySQL Workbench)
 
-## Contributing
-Feel free to fork this repository and suggest improvements via pull requests.
 
-## License
-This project is open-source under the MIT License.
+
+
 
